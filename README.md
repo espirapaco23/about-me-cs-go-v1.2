@@ -2,7 +2,7 @@
 
 - Website deploy: [NETLIFY](https://magnificent-tarsier-4870a2.netlify.app/).
 
-## I use:
+## I used:
 
 - React.
 - ThreeJS.
