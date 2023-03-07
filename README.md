@@ -1,4 +1,4 @@
-# My Blog
+#  <h1 align="center" >My Blog</h1>
 
 - Website deploy: [NETLIFY](https://magnificent-tarsier-4870a2.netlify.app/).
 
